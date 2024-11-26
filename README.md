@@ -8,9 +8,9 @@ This repository contains solutions for **CSC-333 Lab Practical Assignment 1** on
 
 ```
 📂 CSC-333-OR-Linear-Programming-Solutions/
-├── lp_graphical_solution.py   # Python script with graphical LP solutions
+├── CSC333.py   # Python script with graphical LP solutions
 ├── notebooks/
-│   └── lp_graphical_solution.ipynb  # Jupyter Notebook for LP solutions
+│   └── CSC333.ipynb  # Jupyter Notebook for LP solutions
 ├── hand_solutions/
 │   ├── Problem1.pdf  # Scanned manual solution for Problem 1
 │   ├── Problem2.pdf  # Scanned manual solution for Problem 2
@@ -76,7 +76,7 @@ pip install matplotlib numpy scipy
 
 2. Run the Jupyter Notebook for interactive solutions:
    ```bash
-   jupyter notebook notebooks/lp_graphical_solution.ipynb
+   jupyter notebook notebooks/ CSC333.ipynb
    ```
 
 ---
